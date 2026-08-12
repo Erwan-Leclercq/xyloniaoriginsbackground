@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsbackground:child_of_the_street"
+  ],
+  "icon": {
+    "id": "minecraft:bundle"
+  },
+  "order": 4,
+  "impact": 1
+}
