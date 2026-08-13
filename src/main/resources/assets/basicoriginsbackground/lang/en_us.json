@@ -4,6 +4,12 @@
   "origin.basicoriginsbackground.child_of_the_street.name": "Child of the street",
   "origin.basicoriginsbackground.child_of_the_street.description": "You was a child born in the street and you had learned how to survive",
 
+  "origin.basicoriginsbackground.equestrian.name": "Equestrian",
+  "origin.basicoriginsbackground.equestrian.description": "You are an equestrian that have a horse",
+
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
-  "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not"
+  "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
+
+  "power.basicoriginsbackground.horse.name": "Horse",
+  "power.basicoriginsbackground.horse.description": "You get a horse"
 }

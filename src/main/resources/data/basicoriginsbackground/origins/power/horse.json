@@ -1,0 +1,9 @@
+{
+    "type": "origins:action_on_callback",
+    "entity_action_gained": [
+        {
+            "type": "origins:execute_command",
+            "command": "summon horse ~ ~1 ~ {Tame:1,SaddleItem:{id:saddle,Count:1}}"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
   "order": 1,
   "origins": [
-    "basicoriginsbackground:child_of_the_street"
+    "basicoriginsbackground:equestrian"
   ],
   "gui_title": {
     "choose_origin": "Choose your background"

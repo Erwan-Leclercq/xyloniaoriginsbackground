@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsbackground:equestrian"
+  ],
+  "icon": {
+    "id": "minecraft:saddle"
+  },
+  "order": 4,
+  "impact": 1
+}
