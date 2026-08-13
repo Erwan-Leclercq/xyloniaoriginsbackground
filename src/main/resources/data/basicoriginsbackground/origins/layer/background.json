@@ -1,6 +1,7 @@
 {
   "order": 1,
   "origins": [
+    "basicoriginsbackground:childofthestreet",
     "basicoriginsbackground:equestrian"
   ],
   "gui_title": {
