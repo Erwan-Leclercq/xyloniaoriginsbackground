@@ -3,7 +3,8 @@
   "origins": [
     "basicoriginsbackground:child_of_the_street",
     "basicoriginsbackground:equestrian",
-    "basicoriginsbackground:royal_guard"
+    "basicoriginsbackground:royal_guard",
+    "basicoriginsbackground:lumberjack"
   ],
   "gui_title": {
     "choose_origin": "Choose your background"

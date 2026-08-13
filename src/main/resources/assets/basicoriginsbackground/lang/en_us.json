@@ -10,6 +10,9 @@
   "origin.basicoriginsbackground.royal_guard.name": "Royal guard",
   "origin.basicoriginsbackground.royal_guard.description": "You are an royal guard that have a chainmail chestplate",
 
+  "origin.basicoriginsbackground.lumberjack.name": "Lumberjack",
+  "origin.basicoriginsbackground.lumberjack.description": "You are an lumberjack that have a axe",
+
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
   "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
 
@@ -17,6 +20,9 @@
   "power.basicoriginsbackground.horse.description": "You get a horse",
 
   "power.basicoriginsbackground.guard_inventory.name": "Guard inventory",
-  "power.basicoriginsbackground.guard_inventory.description": "You get a chainmail chestplate"
+  "power.basicoriginsbackground.guard_inventory.description": "You get a chainmail chestplate",
+
+  "power.basicoriginsbackground.axe_inventory.name": "axe_inventory",
+  "power.basicoriginsbackground.axe_inventory.description": "You get a iron axe"
 
 }

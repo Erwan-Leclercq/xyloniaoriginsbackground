@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsbackground:lumberjack"
+  ],
+  "icon": {
+    "id": "minecraft:iron_axe"
+  },
+  "order": 4,
+  "impact": 1
+}
