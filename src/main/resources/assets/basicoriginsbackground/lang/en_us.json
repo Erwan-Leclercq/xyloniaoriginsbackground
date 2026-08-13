@@ -6,10 +6,17 @@
 
   "origin.basicoriginsbackground.equestrian.name": "Equestrian",
   "origin.basicoriginsbackground.equestrian.description": "You are an equestrian that have a horse",
+  
+  "origin.basicoriginsbackground.royal_guard.name": "Royal guard",
+  "origin.basicoriginsbackground.royal_guard.description": "You are an royal guard that have a chainmail chestplate",
 
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
   "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
 
   "power.basicoriginsbackground.horse.name": "Horse",
-  "power.basicoriginsbackground.horse.description": "You get a horse"
+  "power.basicoriginsbackground.horse.description": "You get a horse",
+
+  "power.basicoriginsbackground.guard_inventory.name": "Guard inventory",
+  "power.basicoriginsbackground.guard_inventory.description": "You get a chainmail chestplate"
+
 }

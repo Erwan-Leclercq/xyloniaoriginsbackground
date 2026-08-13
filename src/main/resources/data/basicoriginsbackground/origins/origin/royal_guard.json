@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsbackground:royal_guard"
+  ],
+  "icon": {
+    "id": "minecraft:iron_helmet"
+  },
+  "order": 4,
+  "impact": 1
+}
