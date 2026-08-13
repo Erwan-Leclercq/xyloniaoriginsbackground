@@ -13,6 +13,9 @@
   "origin.basicoriginsbackground.lumberjack.name": "Lumberjack",
   "origin.basicoriginsbackground.lumberjack.description": "You are an lumberjack that have a axe",
 
+  "origin.basicoriginsbackground.miner.name": "Miner",
+  "origin.basicoriginsbackground.miner.description": "You are an miner that have a pickaxe",
+
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
   "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
 
@@ -23,6 +26,9 @@
   "power.basicoriginsbackground.guard_inventory.description": "You get a chainmail chestplate",
 
   "power.basicoriginsbackground.axe_inventory.name": "axe_inventory",
-  "power.basicoriginsbackground.axe_inventory.description": "You get a iron axe"
+  "power.basicoriginsbackground.axe_inventory.description": "You get a iron axe",
+
+  "power.basicoriginsbackground.pickaxe_inventory.name": "pickaxe_inventory",
+  "power.basicoriginsbackground.pickaxe_inventory.description": "You get a iron pickaxe"
 
 }

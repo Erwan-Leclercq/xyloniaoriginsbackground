@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsbackground:miner"
+  ],
+  "icon": {
+    "id": "minecraft:iron_pickaxe"
+  },
+  "order": 4,
+  "impact": 1
+}
