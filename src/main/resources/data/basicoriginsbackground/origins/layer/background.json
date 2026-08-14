@@ -10,7 +10,8 @@
     "basicoriginsbackground:former_soldier",
     "basicoriginsbackground:chef",
     "basicoriginsbackground:farmer",
-    "basicoriginsbackground:black_smith"
+    "basicoriginsbackground:black_smith",
+    "basicoriginsbackground:bard"
   ],
   "gui_title": {
     "choose_origin": "Choose your background"
