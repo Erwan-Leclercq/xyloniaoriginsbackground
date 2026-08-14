@@ -31,6 +31,9 @@
   "origin.basicoriginsbackground.black_smith.name": "Black smith",
   "origin.basicoriginsbackground.black_smith.description": "You are an black smith that have some iron ingot and a smithing table",
 
+  "origin.basicoriginsbackground.bard.name": "Bard",
+  "origin.basicoriginsbackground.bard.description": "You are a bard and you start with a lute",
+
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
   "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
 
@@ -65,6 +68,9 @@
   "power.basicoriginsbackground.forge_inventory.description": "You get a smithing table",
 
   "power.basicoriginsbackground.iron_ingot_inventory.name": "iron_ingot_inventory",
-  "power.basicoriginsbackground.iron_ingot_inventory.description": "You get 10 iron ingot"
+  "power.basicoriginsbackground.iron_ingot_inventory.description": "You get 10 iron ingot",
+
+  "power.basicoriginsbackground.bard_inventory.name": "Bard inventory",
+  "power.basicoriginsbackground.bard_inventory.description": "You get a lute"
 
 }

@@ -3,8 +3,8 @@
     "#basicoriginsbackground:bard"
   ],
   "icon": {
-    "id": "minecraft:flint_and_steel"
+    "id": "immersive_melodies:lute"
   },
   "order": 4,
-  "impact": 3
+  "impact": 2
 }
