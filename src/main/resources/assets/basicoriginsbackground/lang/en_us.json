@@ -34,6 +34,9 @@
   "origin.basicoriginsbackground.bard.name": "Bard",
   "origin.basicoriginsbackground.bard.description": "You are a bard and you start with a lute",
 
+  "origin.basicoriginsbackground.engineer.name": "Engineer",
+  "origin.basicoriginsbackground.engineer.description": "You are an engineer that have a goggles and a wrench",
+
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
   "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
 
@@ -71,6 +74,9 @@
   "power.basicoriginsbackground.iron_ingot_inventory.description": "You get 10 iron ingot",
 
   "power.basicoriginsbackground.bard_inventory.name": "Bard inventory",
-  "power.basicoriginsbackground.bard_inventory.description": "You get a lute"
+  "power.basicoriginsbackground.bard_inventory.description": "You get a lute",
+
+  "power.basicoriginsbackground.engineer_inventory.name": "Engineer inventory",
+  "power.basicoriginsbackground.engineer_inventory.description": "You get a wrench and a goggles"
 
 }

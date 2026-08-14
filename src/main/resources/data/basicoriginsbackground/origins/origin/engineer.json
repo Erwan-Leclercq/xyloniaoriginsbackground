@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsbackground:engineer"
+  ],
+  "icon": {
+    "id": "create:goggles"
+  },
+  "order": 4,
+  "impact": 2
+}
