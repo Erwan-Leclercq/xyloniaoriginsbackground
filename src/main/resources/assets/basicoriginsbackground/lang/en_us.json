@@ -28,6 +28,9 @@
   "origin.basicoriginsbackground.farmer.name": "Farmer",
   "origin.basicoriginsbackground.farmer.description": "You are an famer that have some sheep and a iron hoe",
 
+  "origin.basicoriginsbackground.black_smith.name": "Black smith",
+  "origin.basicoriginsbackground.black_smith.description": "You are an black smith that have some iron ingot and a smithing table",
+
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
   "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
 
@@ -56,6 +59,12 @@
   "power.basicoriginsbackground.hoe_inventory.description": "You get a iron hoe",
 
   "power.basicoriginsbackground.sheep.name": "sheep",
-  "power.basicoriginsbackground.sheep.description": "You get 3 sheep"
+  "power.basicoriginsbackground.sheep.description": "You get 3 sheep",
+
+  "power.basicoriginsbackground.forge_inventory.name": "forge_inventory",
+  "power.basicoriginsbackground.forge_inventory.description": "You get a smithing table",
+
+  "power.basicoriginsbackground.iron_ingot_inventory.name": "iron_ingot_inventory",
+  "power.basicoriginsbackground.iron_ingot_inventory.description": "You get 10 iron ingot"
 
 }
