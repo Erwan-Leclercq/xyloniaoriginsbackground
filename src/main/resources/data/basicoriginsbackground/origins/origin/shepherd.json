@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsbackground:shepherd"
+  ],
+  "icon": {
+    "id": "minecraft:wheat"
+  },
+  "order": 4,
+  "impact": 1
+}
