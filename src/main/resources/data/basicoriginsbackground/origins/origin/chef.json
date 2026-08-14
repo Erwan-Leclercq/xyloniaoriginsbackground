@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsbackground:chef"
+  ],
+  "icon": {
+    "id": "minecraft:cooked_porkchop"
+  },
+  "order": 4,
+  "impact": 3
+}

@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsbackground:former_soldier"
+  ],
+  "icon": {
+    "id": "minecraft:iron_sword"
+  },
+  "order": 4,
+  "impact": 1
+}

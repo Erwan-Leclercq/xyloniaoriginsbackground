@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsbackground:bandit"
+  ],
+  "icon": {
+    "id": "minecraft:flint_and_steel"
+  },
+  "order": 4,
+  "impact": 3
+}

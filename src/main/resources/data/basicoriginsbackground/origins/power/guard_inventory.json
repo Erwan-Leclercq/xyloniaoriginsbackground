@@ -3,7 +3,7 @@
     "entity_action_gained": [
         {
             "type": "origins:execute_command",
-            "command": "give @p chainmail_chestplate"
+            "command": "give @p iron_chestplate"
         }
     ]
 }

@@ -8,13 +8,22 @@
   "origin.basicoriginsbackground.equestrian.description": "You are an equestrian that have a horse",
   
   "origin.basicoriginsbackground.royal_guard.name": "Royal guard",
-  "origin.basicoriginsbackground.royal_guard.description": "You are an royal guard that have a chainmail chestplate",
+  "origin.basicoriginsbackground.royal_guard.description": "You are an royal guard that have a iron chestplate",
 
   "origin.basicoriginsbackground.lumberjack.name": "Lumberjack",
   "origin.basicoriginsbackground.lumberjack.description": "You are an lumberjack that have a axe",
 
   "origin.basicoriginsbackground.miner.name": "Miner",
   "origin.basicoriginsbackground.miner.description": "You are an miner that have a pickaxe",
+
+  "origin.basicoriginsbackground.bandit.name": "Bandit",
+  "origin.basicoriginsbackground.bandit.description": "You are an bandit that have a bandle and a iron sword",
+
+  "origin.basicoriginsbackground.former_soldier.name": "Former soldier",
+  "origin.basicoriginsbackground.former_soldier.description": "You are an former soldier that have a shield and a iron sword",
+
+  "origin.basicoriginsbackground.chef.name": "Chef",
+  "origin.basicoriginsbackground.chef.description": "You are an chef that cook for everyone",
 
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
   "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
@@ -23,12 +32,21 @@
   "power.basicoriginsbackground.horse.description": "You get a horse",
 
   "power.basicoriginsbackground.guard_inventory.name": "Guard inventory",
-  "power.basicoriginsbackground.guard_inventory.description": "You get a chainmail chestplate",
+  "power.basicoriginsbackground.guard_inventory.description": "You get a iron chestplate",
 
   "power.basicoriginsbackground.axe_inventory.name": "axe_inventory",
   "power.basicoriginsbackground.axe_inventory.description": "You get a iron axe",
 
   "power.basicoriginsbackground.pickaxe_inventory.name": "pickaxe_inventory",
-  "power.basicoriginsbackground.pickaxe_inventory.description": "You get a iron pickaxe"
+  "power.basicoriginsbackground.pickaxe_inventory.description": "You get a iron pickaxe",
+
+  "power.basicoriginsbackground.pocket_full_of_robbed_things.name": "pocket_full_of_robbed_things",
+  "power.basicoriginsbackground.pocket_full_of_robbed_things.description": "You get a bandle and a iron sword",
+
+  "power.basicoriginsbackground.soldier_inventory.name": "soldier_inventory",
+  "power.basicoriginsbackground.soldier_inventory.description": "You get a shield and a iron sword",
+
+  "power.basicoriginsbackground.cook_inventory.name": "cook_inventory",
+  "power.basicoriginsbackground.cook_inventory.description": "You get a furnace and a porkchop"
 
 }

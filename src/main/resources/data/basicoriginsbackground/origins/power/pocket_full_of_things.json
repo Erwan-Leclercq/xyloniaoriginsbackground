@@ -16,10 +16,6 @@
         {
             "type": "origins:execute_command",
             "command": "give @p bread 2"
-        },
-        {
-            "type": "origins:execute_command",
-            "command": "say the archer skill tree is unlocked !"
         }
     ]
 }
