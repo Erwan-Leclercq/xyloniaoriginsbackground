@@ -25,6 +25,9 @@
   "origin.basicoriginsbackground.chef.name": "Chef",
   "origin.basicoriginsbackground.chef.description": "You are an chef that cook for everyone",
 
+  "origin.basicoriginsbackground.farmer.name": "Farmer",
+  "origin.basicoriginsbackground.farmer.description": "You are an famer that have some sheep and a iron hoe",
+
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
   "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
 
@@ -47,6 +50,12 @@
   "power.basicoriginsbackground.soldier_inventory.description": "You get a shield and a iron sword",
 
   "power.basicoriginsbackground.cook_inventory.name": "cook_inventory",
-  "power.basicoriginsbackground.cook_inventory.description": "You get a furnace and a porkchop"
+  "power.basicoriginsbackground.cook_inventory.description": "You get a furnace and a porkchop",
+
+  "power.basicoriginsbackground.hoe_inventory.name": "hoe_inventory",
+  "power.basicoriginsbackground.hoe_inventory.description": "You get a iron hoe",
+
+  "power.basicoriginsbackground.sheep.name": "sheep",
+  "power.basicoriginsbackground.sheep.description": "You get 3 sheep"
 
 }

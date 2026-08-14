@@ -8,7 +8,8 @@
     "basicoriginsbackground:miner",
     "basicoriginsbackground:bandit",
     "basicoriginsbackground:former_soldier",
-    "basicoriginsbackground:chef"
+    "basicoriginsbackground:chef",
+    "basicoriginsbackground:farmer"
   ],
   "gui_title": {
     "choose_origin": "Choose your background"
