@@ -12,6 +12,10 @@
         {
             "type": "origins:execute_command",
             "command": "summon sheep ~ ~1 ~ {Tame:1,SaddleItem:{id:saddle,Count:1}}"
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "give @p wheat 10"
         }
     ]
 }

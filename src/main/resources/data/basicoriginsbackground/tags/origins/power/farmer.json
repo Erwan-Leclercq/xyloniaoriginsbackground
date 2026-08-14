@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "basicoriginsbackground:sheep",
-    "basicoriginsbackground:hoe_inventory"
+    "basicoriginsbackground:farmer_inventory"
   ]
 }

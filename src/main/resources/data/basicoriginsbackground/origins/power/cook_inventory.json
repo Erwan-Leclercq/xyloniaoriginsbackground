@@ -3,11 +3,31 @@
     "entity_action_gained": [
         {
             "type": "origins:execute_command",
-            "command": "give @p furnace"
+            "command": "give @p farmersdelight:flint_knife"
         },
         {
             "type": "origins:execute_command",
-            "command": "give @p porkchop 15"
+            "command": "give @p farmersdelight:skillet"
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "give @p farmersdelight:salmon_slice 2"
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "give @p farmersdelight:stove"
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "give @p farmersdelight:cooking_pot"
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "give @p porkchop 3"
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "give @p farmersdelight:tomato 2"
         }
     ]
 }
