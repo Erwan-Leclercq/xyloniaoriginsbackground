@@ -37,6 +37,9 @@
   "origin.basicoriginsbackground.engineer.name": "Engineer",
   "origin.basicoriginsbackground.engineer.description": "You are an engineer that have a goggles and a wrench",
 
+  "origin.basicoriginsbackground.wizard_apprentice.name": "Wizard apprentice",
+  "origin.basicoriginsbackground.wizard_apprentice.description": "You are an wizard apprentice that have a spell book and a hat",
+
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
   "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
 
@@ -58,25 +61,28 @@
   "power.basicoriginsbackground.soldier_inventory.name": "soldier_inventory",
   "power.basicoriginsbackground.soldier_inventory.description": "You get a shield and a iron sword",
 
-  "power.basicoriginsbackground.cook_inventory.name": "cook_inventory",
+  "power.basicoriginsbackground.cook_inventory.name": "Cook inventory",
   "power.basicoriginsbackground.cook_inventory.description": "You get a furnace and a porkchop",
 
-  "power.basicoriginsbackground.hoe_inventory.name": "hoe_inventory",
+  "power.basicoriginsbackground.hoe_inventory.name": "Hoe inventory",
   "power.basicoriginsbackground.hoe_inventory.description": "You get a iron hoe",
 
-  "power.basicoriginsbackground.sheep.name": "sheep",
+  "power.basicoriginsbackground.sheep.name": "Sheep",
   "power.basicoriginsbackground.sheep.description": "You get 3 sheep",
 
-  "power.basicoriginsbackground.forge_inventory.name": "forge_inventory",
+  "power.basicoriginsbackground.forge_inventory.name": "Forge inventory",
   "power.basicoriginsbackground.forge_inventory.description": "You get a smithing table",
 
-  "power.basicoriginsbackground.iron_ingot_inventory.name": "iron_ingot_inventory",
+  "power.basicoriginsbackground.iron_ingot_inventory.name": "Iron ingot inventory",
   "power.basicoriginsbackground.iron_ingot_inventory.description": "You get 10 iron ingot",
 
   "power.basicoriginsbackground.bard_inventory.name": "Bard inventory",
   "power.basicoriginsbackground.bard_inventory.description": "You get a lute",
 
   "power.basicoriginsbackground.engineer_inventory.name": "Engineer inventory",
-  "power.basicoriginsbackground.engineer_inventory.description": "You get a wrench and a goggles"
+  "power.basicoriginsbackground.engineer_inventory.description": "You get a wrench and a goggles",
+
+  "power.basicoriginsbackground.wizard_inventory.name": "Wizard inventory",
+  "power.basicoriginsbackground.wizard_inventory.description": "You get a hat and a basic spell book"
 
 }

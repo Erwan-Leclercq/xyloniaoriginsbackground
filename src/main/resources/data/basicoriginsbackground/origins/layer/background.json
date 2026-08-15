@@ -13,7 +13,8 @@
     "basicoriginsbackground:black_smith",
     "basicoriginsbackground:bard",
     "basicoriginsbackground:shepherd",
-    "basicoriginsbackground:engineer"
+    "basicoriginsbackground:engineer",
+    "basicoriginsbackground:wizard_apprentice"
   ],
   "gui_title": {
     "choose_origin": "Choose your background"

@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsbackground:wizard_apprentice"
+  ],
+  "icon": {
+    "id": "irons_spellbooks:copper_spell_book"
+  },
+  "order": 4,
+  "impact": 1
+}
