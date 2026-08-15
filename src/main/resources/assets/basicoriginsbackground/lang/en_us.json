@@ -40,6 +40,9 @@
   "origin.basicoriginsbackground.wizard_apprentice.name": "Wizard apprentice",
   "origin.basicoriginsbackground.wizard_apprentice.description": "You are an wizard apprentice that have a spell book and a hat",
 
+  "origin.basicoriginsbackground.shepherd.name": "Shepherd",
+  "origin.basicoriginsbackground.shepherd.description": "You are an shepherd that have some sheeps and wheat",
+
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
   "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
 
@@ -49,13 +52,13 @@
   "power.basicoriginsbackground.guard_inventory.name": "Guard inventory",
   "power.basicoriginsbackground.guard_inventory.description": "You get a iron chestplate",
 
-  "power.basicoriginsbackground.axe_inventory.name": "axe_inventory",
+  "power.basicoriginsbackground.axe_inventory.name": "Axe inventory",
   "power.basicoriginsbackground.axe_inventory.description": "You get a iron axe",
 
-  "power.basicoriginsbackground.pickaxe_inventory.name": "pickaxe_inventory",
+  "power.basicoriginsbackground.pickaxe_inventory.name": "Pickaxe inventory",
   "power.basicoriginsbackground.pickaxe_inventory.description": "You get a iron pickaxe",
 
-  "power.basicoriginsbackground.pocket_full_of_robbed_things.name": "pocket_full_of_robbed_things",
+  "power.basicoriginsbackground.pocket_full_of_robbed_things.name": "Pocket full of robbed things",
   "power.basicoriginsbackground.pocket_full_of_robbed_things.description": "You get a bandle and a iron sword",
 
   "power.basicoriginsbackground.soldier_inventory.name": "soldier_inventory",
@@ -83,6 +86,9 @@
   "power.basicoriginsbackground.engineer_inventory.description": "You get a wrench and a goggles",
 
   "power.basicoriginsbackground.wizard_inventory.name": "Wizard inventory",
-  "power.basicoriginsbackground.wizard_inventory.description": "You get a hat and a basic spell book"
+  "power.basicoriginsbackground.wizard_inventory.description": "You get a hat and a basic spell book",
+
+  "power.basicoriginsbackground.shepherd_inventory.name": "Shepherd inventory",
+  "power.basicoriginsbackground.shepherd_inventory.description": "You get a some sheeps and wheat"
 
 }
