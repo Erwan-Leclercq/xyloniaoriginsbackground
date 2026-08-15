@@ -89,6 +89,9 @@
   "power.basicoriginsbackground.wizard_inventory.description": "You get a hat and a basic spell book",
 
   "power.basicoriginsbackground.shepherd_inventory.name": "Shepherd inventory",
-  "power.basicoriginsbackground.shepherd_inventory.description": "You get a some sheeps and wheat"
+  "power.basicoriginsbackground.shepherd_inventory.description": "You get a some sheeps and wheat",
+
+  "power.basicoriginsbackground.farmer_inventory.name": "Shepherd inventory",
+  "power.basicoriginsbackground.farmer_inventory.description": "You get a some sheeps and wheat"
 
 }
