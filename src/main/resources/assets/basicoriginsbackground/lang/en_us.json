@@ -38,7 +38,7 @@
   "origin.basicoriginsbackground.engineer.description": "You are an engineer that have a goggles and a wrench",
 
   "origin.basicoriginsbackground.wizard_apprentice.name": "Wizard apprentice",
-  "origin.basicoriginsbackground.wizard_apprentice.description": "You are an wizard apprentice that have a spell book and a hat",
+  "origin.basicoriginsbackground.wizard_apprentice.description": "As an apprentice wizard, you will gain easier access to magic with a starter pack focused on Iron Spells.",
 
   "origin.basicoriginsbackground.shepherd.name": "Shepherd",
   "origin.basicoriginsbackground.shepherd.description": "You are an shepherd that have some sheeps and wheat",
@@ -86,7 +86,7 @@
   "power.basicoriginsbackground.engineer_inventory.description": "You get a wrench and a goggles",
 
   "power.basicoriginsbackground.wizard_inventory.name": "Wizard inventory",
-  "power.basicoriginsbackground.wizard_inventory.description": "You get a hat and a basic spell book",
+  "power.basicoriginsbackground.wizard_inventory.description": "In the wizard's inventory, you will start with a wizard's hat, which will make you feel like one, as well as a basic grimoire that allows you to cast spells once you find them.",
 
   "power.basicoriginsbackground.shepherd_inventory.name": "Shepherd inventory",
   "power.basicoriginsbackground.shepherd_inventory.description": "You get a some sheeps and wheat",
