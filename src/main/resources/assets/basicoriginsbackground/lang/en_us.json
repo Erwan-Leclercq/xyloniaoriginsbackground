@@ -41,7 +41,7 @@
   "origin.basicoriginsbackground.wizard_apprentice.description": "As an apprentice wizard, you will gain easier access to magic with a starter pack focused on Iron Spells.",
 
   "origin.basicoriginsbackground.shepherd.name": "Shepherd",
-  "origin.basicoriginsbackground.shepherd.description": "You are an shepherd that have some sheeps and wheat",
+  "origin.basicoriginsbackground.shepherd.description": "As a former shepherd, you still retain the benefits of that past, and this will be evident in both your inventory and your surroundings.",
 
   "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
   "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
@@ -89,9 +89,9 @@
   "power.basicoriginsbackground.wizard_inventory.description": "In the wizard's inventory, you will start with a wizard's hat, which will make you feel like one, as well as a basic grimoire that allows you to cast spells once you find them.",
 
   "power.basicoriginsbackground.shepherd_inventory.name": "Shepherd inventory",
-  "power.basicoriginsbackground.shepherd_inventory.description": "You get a some sheeps and wheat",
+  "power.basicoriginsbackground.shepherd_inventory.description": "Thanks to the shepherd's inventory, you will have wheat directly in your inventory, as well as some companions, three sheep, to do with as you please.",
 
-  "power.basicoriginsbackground.farmer_inventory.name": "Shepherd inventory",
-  "power.basicoriginsbackground.farmer_inventory.description": "You get a some sheeps and wheat"
+  "power.basicoriginsbackground.farmer_inventory.name": "farmer inventory",
+  "power.basicoriginsbackground.farmer_inventory.description": "..."
 
 }
