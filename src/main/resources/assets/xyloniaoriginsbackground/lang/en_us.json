@@ -1,97 +1,97 @@
 {
-  "layer.basicoriginsbackground.background.name": "Background",
+  "layer.xyloniaoriginsbackground.background.name": "Background",
 
-  "origin.basicoriginsbackground.child_of_the_street.name": "Child of the street",
-  "origin.basicoriginsbackground.child_of_the_street.description": "You was a child born in the street and you had learned how to survive",
+  "origin.xyloniaoriginsbackground.child_of_the_street.name": "Child of the street",
+  "origin.xyloniaoriginsbackground.child_of_the_street.description": "You was a child born in the street and you had learned how to survive",
 
-  "origin.basicoriginsbackground.equestrian.name": "Equestrian",
-  "origin.basicoriginsbackground.equestrian.description": "You are an equestrian that have a horse",
+  "origin.xyloniaoriginsbackground.equestrian.name": "Equestrian",
+  "origin.xyloniaoriginsbackground.equestrian.description": "You are an equestrian that have a horse",
   
-  "origin.basicoriginsbackground.royal_guard.name": "Royal guard",
-  "origin.basicoriginsbackground.royal_guard.description": "As a former royal guard, you will therefore have combat advantages thanks to your inventory.",
+  "origin.xyloniaoriginsbackground.royal_guard.name": "Royal guard",
+  "origin.xyloniaoriginsbackground.royal_guard.description": "As a former royal guard, you will therefore have combat advantages thanks to your inventory.",
 
-  "origin.basicoriginsbackground.lumberjack.name": "Lumberjack",
-  "origin.basicoriginsbackground.lumberjack.description": "As a former Lumberjack, you can start with the axe inventory, which will give you a huge advantage.",
+  "origin.xyloniaoriginsbackground.lumberjack.name": "Lumberjack",
+  "origin.xyloniaoriginsbackground.lumberjack.description": "As a former Lumberjack, you can start with the axe inventory, which will give you a huge advantage.",
 
-  "origin.basicoriginsbackground.miner.name": "Miner",
-  "origin.basicoriginsbackground.miner.description": "As a former miner, you know the caves well, so you'll be able to reach them more quickly at the start.",
+  "origin.xyloniaoriginsbackground.miner.name": "Miner",
+  "origin.xyloniaoriginsbackground.miner.description": "As a former miner, you know the caves well, so you'll be able to reach them more quickly at the start.",
 
-  "origin.basicoriginsbackground.bandit.name": "Bandit",
-  "origin.basicoriginsbackground.bandit.description": "You are an bandit that have a bandle and a iron sword",
+  "origin.xyloniaoriginsbackground.bandit.name": "Bandit",
+  "origin.xyloniaoriginsbackground.bandit.description": "You are an bandit that have a bandle and a iron sword",
 
-  "origin.basicoriginsbackground.former_soldier.name": "Former soldier",
-  "origin.basicoriginsbackground.former_soldier.description": "You are an former soldier that have a shield and a iron sword",
+  "origin.xyloniaoriginsbackground.former_soldier.name": "Former soldier",
+  "origin.xyloniaoriginsbackground.former_soldier.description": "You are an former soldier that have a shield and a iron sword",
 
-  "origin.basicoriginsbackground.chef.name": "Chef",
-  "origin.basicoriginsbackground.chef.description": "You are an chef that cook for everyone",
+  "origin.xyloniaoriginsbackground.chef.name": "Chef",
+  "origin.xyloniaoriginsbackground.chef.description": "You are an chef that cook for everyone",
 
-  "origin.basicoriginsbackground.farmer.name": "Farmer",
-  "origin.basicoriginsbackground.farmer.description": "You are an famer that have some sheep and a iron hoe",
+  "origin.xyloniaoriginsbackground.farmer.name": "Farmer",
+  "origin.xyloniaoriginsbackground.farmer.description": "You are an famer that have some sheep and a iron hoe",
 
-  "origin.basicoriginsbackground.black_smith.name": "Black smith",
-  "origin.basicoriginsbackground.black_smith.description": "You are an black smith that have some iron ingot and a smithing table",
+  "origin.xyloniaoriginsbackground.black_smith.name": "Black smith",
+  "origin.xyloniaoriginsbackground.black_smith.description": "You are an black smith that have some iron ingot and a smithing table",
 
-  "origin.basicoriginsbackground.bard.name": "Bard",
-  "origin.basicoriginsbackground.bard.description": "You are a bard and you start with a lute",
+  "origin.xyloniaoriginsbackground.bard.name": "Bard",
+  "origin.xyloniaoriginsbackground.bard.description": "You are a bard and you start with a lute",
 
-  "origin.basicoriginsbackground.engineer.name": "Engineer",
-  "origin.basicoriginsbackground.engineer.description": "You are an engineer that have a goggles and a wrench",
+  "origin.xyloniaoriginsbackground.engineer.name": "Engineer",
+  "origin.xyloniaoriginsbackground.engineer.description": "You are an engineer that have a goggles and a wrench",
 
-  "origin.basicoriginsbackground.wizard_apprentice.name": "Wizard apprentice",
-  "origin.basicoriginsbackground.wizard_apprentice.description": "As an apprentice wizard, you will gain easier access to magic with a starter pack focused on Iron Spells.",
+  "origin.xyloniaoriginsbackground.wizard_apprentice.name": "Wizard apprentice",
+  "origin.xyloniaoriginsbackground.wizard_apprentice.description": "As an apprentice wizard, you will gain easier access to magic with a starter pack focused on Iron Spells.",
 
-  "origin.basicoriginsbackground.shepherd.name": "Shepherd",
-  "origin.basicoriginsbackground.shepherd.description": "As a former shepherd, you still retain the benefits of that past, and this will be evident in both your inventory and your surroundings.",
+  "origin.xyloniaoriginsbackground.shepherd.name": "Shepherd",
+  "origin.xyloniaoriginsbackground.shepherd.description": "As a former shepherd, you still retain the benefits of that past, and this will be evident in both your inventory and your surroundings.",
 
-  "power.basicoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
-  "power.basicoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
+  "power.xyloniaoriginsbackground.pocket_full_of_things.name": "Pocket full of things",
+  "power.xyloniaoriginsbackground.pocket_full_of_things.description": "Your pocket is full of things that will maybe help you in your adventure or maybe not",
 
-  "power.basicoriginsbackground.horse.name": "Horse",
-  "power.basicoriginsbackground.horse.description": "You get a horse",
+  "power.xyloniaoriginsbackground.horse.name": "Horse",
+  "power.xyloniaoriginsbackground.horse.description": "You get a horse",
 
-  "power.basicoriginsbackground.guard_inventory.name": "Guard inventory",
-  "power.basicoriginsbackground.guard_inventory.description": "With the guard's inventory, you'll have the chance to start with an iron chestplate, giving you a huge advantage when defending yourself or someone else.",
+  "power.xyloniaoriginsbackground.guard_inventory.name": "Guard inventory",
+  "power.xyloniaoriginsbackground.guard_inventory.description": "With the guard's inventory, you'll have the chance to start with an iron chestplate, giving you a huge advantage when defending yourself or someone else.",
 
-  "power.basicoriginsbackground.axe_inventory.name": "Axe inventory",
-  "power.basicoriginsbackground.axe_inventory.description": "The Axe Inventory gives you an iron axe right at the start of the game, allowing you to gather wood much faster than others.",
+  "power.xyloniaoriginsbackground.axe_inventory.name": "Axe inventory",
+  "power.xyloniaoriginsbackground.axe_inventory.description": "The Axe Inventory gives you an iron axe right at the start of the game, allowing you to gather wood much faster than others.",
 
-  "power.basicoriginsbackground.pickaxe_inventory.name": "Pickaxe inventory",
-  "power.basicoriginsbackground.pickaxe_inventory.description": "Thanks to the pickaxe inventory, you will start with an iron pickaxe, giving you a huge advantage early in the game.",
+  "power.xyloniaoriginsbackground.pickaxe_inventory.name": "Pickaxe inventory",
+  "power.xyloniaoriginsbackground.pickaxe_inventory.description": "Thanks to the pickaxe inventory, you will start with an iron pickaxe, giving you a huge advantage early in the game.",
 
-  "power.basicoriginsbackground.pocket_full_of_robbed_things.name": "Pocket full of robbed things",
-  "power.basicoriginsbackground.pocket_full_of_robbed_things.description": "You get a bandle and a iron sword",
+  "power.xyloniaoriginsbackground.pocket_full_of_robbed_things.name": "Pocket full of robbed things",
+  "power.xyloniaoriginsbackground.pocket_full_of_robbed_things.description": "You get a bandle and a iron sword",
 
-  "power.basicoriginsbackground.soldier_inventory.name": "soldier_inventory",
-  "power.basicoriginsbackground.soldier_inventory.description": "You get a shield and a iron sword",
+  "power.xyloniaoriginsbackground.soldier_inventory.name": "soldier_inventory",
+  "power.xyloniaoriginsbackground.soldier_inventory.description": "You get a shield and a iron sword",
 
-  "power.basicoriginsbackground.cook_inventory.name": "Cook inventory",
-  "power.basicoriginsbackground.cook_inventory.description": "You get a furnace and a porkchop",
+  "power.xyloniaoriginsbackground.cook_inventory.name": "Cook inventory",
+  "power.xyloniaoriginsbackground.cook_inventory.description": "You get a furnace and a porkchop",
 
-  "power.basicoriginsbackground.hoe_inventory.name": "Hoe inventory",
-  "power.basicoriginsbackground.hoe_inventory.description": "You get a iron hoe",
+  "power.xyloniaoriginsbackground.hoe_inventory.name": "Hoe inventory",
+  "power.xyloniaoriginsbackground.hoe_inventory.description": "You get a iron hoe",
 
-  "power.basicoriginsbackground.sheep.name": "Sheep",
-  "power.basicoriginsbackground.sheep.description": "You get 3 sheep",
+  "power.xyloniaoriginsbackground.sheep.name": "Sheep",
+  "power.xyloniaoriginsbackground.sheep.description": "You get 3 sheep",
 
-  "power.basicoriginsbackground.forge_inventory.name": "Forge inventory",
-  "power.basicoriginsbackground.forge_inventory.description": "You get a smithing table",
+  "power.xyloniaoriginsbackground.forge_inventory.name": "Forge inventory",
+  "power.xyloniaoriginsbackground.forge_inventory.description": "You get a smithing table",
 
-  "power.basicoriginsbackground.iron_ingot_inventory.name": "Iron ingot inventory",
-  "power.basicoriginsbackground.iron_ingot_inventory.description": "You get 10 iron ingot",
+  "power.xyloniaoriginsbackground.iron_ingot_inventory.name": "Iron ingot inventory",
+  "power.xyloniaoriginsbackground.iron_ingot_inventory.description": "You get 10 iron ingot",
 
-  "power.basicoriginsbackground.bard_inventory.name": "Bard inventory",
-  "power.basicoriginsbackground.bard_inventory.description": "You get a lute",
+  "power.xyloniaoriginsbackground.bard_inventory.name": "Bard inventory",
+  "power.xyloniaoriginsbackground.bard_inventory.description": "You get a lute",
 
-  "power.basicoriginsbackground.engineer_inventory.name": "Engineer inventory",
-  "power.basicoriginsbackground.engineer_inventory.description": "You get a wrench and a goggles",
+  "power.xyloniaoriginsbackground.engineer_inventory.name": "Engineer inventory",
+  "power.xyloniaoriginsbackground.engineer_inventory.description": "You get a wrench and a goggles",
 
-  "power.basicoriginsbackground.wizard_inventory.name": "Wizard inventory",
-  "power.basicoriginsbackground.wizard_inventory.description": "In the wizard's inventory, you will start with a wizard's hat, which will make you feel like one, as well as a basic grimoire that allows you to cast spells once you find them.",
+  "power.xyloniaoriginsbackground.wizard_inventory.name": "Wizard inventory",
+  "power.xyloniaoriginsbackground.wizard_inventory.description": "In the wizard's inventory, you will start with a wizard's hat, which will make you feel like one, as well as a basic grimoire that allows you to cast spells once you find them.",
 
-  "power.basicoriginsbackground.shepherd_inventory.name": "Shepherd inventory",
-  "power.basicoriginsbackground.shepherd_inventory.description": "Thanks to the shepherd's inventory, you will have wheat directly in your inventory, as well as some companions, three sheep, to do with as you please.",
+  "power.xyloniaoriginsbackground.shepherd_inventory.name": "Shepherd inventory",
+  "power.xyloniaoriginsbackground.shepherd_inventory.description": "Thanks to the shepherd's inventory, you will have wheat directly in your inventory, as well as some companions, three sheep, to do with as you please.",
 
-  "power.basicoriginsbackground.farmer_inventory.name": "farmer inventory",
-  "power.basicoriginsbackground.farmer_inventory.description": "..."
+  "power.xyloniaoriginsbackground.farmer_inventory.name": "farmer inventory",
+  "power.xyloniaoriginsbackground.farmer_inventory.description": "..."
 
 }

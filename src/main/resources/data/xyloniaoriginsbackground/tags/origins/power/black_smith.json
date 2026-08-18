@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "basicoriginsbackground:forge_inventory",
-    "basicoriginsbackground:iron_ingot_inventory"
+    "xyloniaoriginsbackground:forge_inventory",
+    "xyloniaoriginsbackground:iron_ingot_inventory"
   ]
 }

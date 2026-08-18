@@ -1,20 +1,20 @@
 {
   "order": 1,
   "origins": [
-    "basicoriginsbackground:child_of_the_street",
-    "basicoriginsbackground:equestrian",
-    "basicoriginsbackground:royal_guard",
-    "basicoriginsbackground:lumberjack",
-    "basicoriginsbackground:miner",
-    "basicoriginsbackground:bandit",
-    "basicoriginsbackground:former_soldier",
-    "basicoriginsbackground:chef",
-    "basicoriginsbackground:farmer",
-    "basicoriginsbackground:black_smith",
-    "basicoriginsbackground:bard",
-    "basicoriginsbackground:shepherd",
-    "basicoriginsbackground:engineer",
-    "basicoriginsbackground:wizard_apprentice"
+    "xyloniaoriginsbackground:child_of_the_street",
+    "xyloniaoriginsbackground:equestrian",
+    "xyloniaoriginsbackground:royal_guard",
+    "xyloniaoriginsbackground:lumberjack",
+    "xyloniaoriginsbackground:miner",
+    "xyloniaoriginsbackground:bandit",
+    "xyloniaoriginsbackground:former_soldier",
+    "xyloniaoriginsbackground:chef",
+    "xyloniaoriginsbackground:farmer",
+    "xyloniaoriginsbackground:black_smith",
+    "xyloniaoriginsbackground:bard",
+    "xyloniaoriginsbackground:shepherd",
+    "xyloniaoriginsbackground:engineer",
+    "xyloniaoriginsbackground:wizard_apprentice"
   ],
   "gui_title": {
     "choose_origin": "Choose your background"
